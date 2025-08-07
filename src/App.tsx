@@ -75,11 +75,11 @@ const App: React.FC = () => {
         backgroundColor={data.offerBanner.backgroundColor}
       />
       
-      <BlogSection
+      {/* <BlogSection
         title={data.blog.title}
         subtitle={data.blog.subtitle}
         posts={data.blog.posts}
-      />
+      /> */}
 
       <Hero2
         title={data.hero2.title}
