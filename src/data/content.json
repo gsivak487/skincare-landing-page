@@ -1,0 +1,284 @@
+{
+  "navigation": {
+    "logo": "Xtragleam",
+    "links": [
+      {
+        "label": "Home",
+        "href": "#home"
+      },
+      {
+        "label": "Shop",
+        "href": "#products"
+      },
+      {
+        "label": "Spa",
+        "href": "#blog"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ]
+  },
+   "subNavigation": {
+    "links": [
+      {
+        "label": "Women",
+        "href": "#home"
+      },
+      {
+        "label": "Men",
+        "href": "#products"
+      },
+      {
+        "label": "Kids",
+        "href": "#blog"
+      },
+      {
+        "label": "New",
+        "href": "#about"
+      },
+      {
+        "label": "Populer",
+        "href": "#contact"
+      }
+    ]
+  },
+  "hero1": {
+    "title": "Glow Beyond",
+    "subtitle": "Expectaions",
+    "description": "Clean, effective, and cruelty-free skincare made to deliver visible results",
+    "buttonText": "Shop Now",
+    "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  "hero": {
+    "title": "Why Chouse Xtragleam?",
+    "subtitle": "Struggliing with acen issues?",
+    "description": "Discover our premium collection of organic skincare products crafted with the finest natural ingredients, Our bestselling skincare essentialsOur bestselling skincare essentials. Discover our premium collection of organic skincare products crafted with the finest natural ingredients, Our bestselling skincare essentialsOur bestselling skincare essentials",
+    "buttonText": "Explore Our Range",
+    "image": "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  "products": {
+    "title": "Discover Our Best-Sellers",
+    "subtitle": "Our bestselling skincare essentials",
+    "items": [
+      {
+        "id": 1,
+        "name": "Vitamin C Serum",
+        "description": "Brightening serum with 20% Vitamin C for radiant skin",
+        "price": 45.00,
+        "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Serums"
+      },
+      {
+        "id": 2,
+        "name": "Hydrating Moisturizer",
+        "description": "Deep hydration cream with hyaluronic acid",
+        "price": 32.00,
+        "image": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Moisturizers"
+      },
+      {
+        "id": 3,
+        "name": "Gentle Cleanser",
+        "description": "Sulfate-free foam cleanser for all skin types",
+        "price": 28.00,
+        "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Cleansers"
+      },
+      {
+        "id": 4,
+        "name": "Night Recovery Oil",
+        "description": "Nourishing facial oil for overnight repair",
+        "price": 52.00,
+        "image": "https://images.pexels.com/photos/4992823/pexels-photo-4992823.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Oils"
+      },
+      {
+        "id": 5,
+        "name": "Hydrating Moisturizer",
+        "description": "Deep hydration cream with hyaluronic acid",
+        "price": 32.00,
+        "image": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Moisturizers"
+      },
+      {
+        "id": 6,
+        "name": "Gentle Cleanser",
+        "description": "Sulfate-free foam cleanser for all skin types",
+        "price": 28.00,
+        "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Cleansers"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonial",
+    "items": [
+      {
+        "id": 1,
+        "name": "Sarah Johnson",
+        "rating": 5,
+        "text": "This vitamin C serum has transformed my skin! I see a noticeable glow after just two weeks of use.",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200"
+      },
+      {
+        "id": 2,
+        "name": "Maria Garcia",
+        "rating": 5,
+        "text": "Finally found a moisturizer that keeps my sensitive skin happy all day. Highly recommend!",
+        "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=200"
+      },
+      {
+        "id": 3,
+        "name": "Emily Chen",
+        "rating": 5,
+        "text": "The gentle cleanser is perfect for my morning routine. Leaves my skin feeling fresh and clean.",
+        "image": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=200"
+      },
+      {
+        "id": 4,
+        "name": "Emily Chen",
+        "rating": 5,
+        "text": "The gentle cleanser is perfect for my morning routine. Leaves my skin feeling fresh and clean.",
+        "image": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=200"
+      },
+      {
+        "id": 5,
+        "name": "Sarah Johnson",
+        "rating": 5,
+        "text": "This vitamin C serum has transformed my skin! I see a noticeable glow after just two weeks of use.",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200"
+      },
+      {
+        "id": 6,
+        "name": "Maria Garcia",
+        "rating": 5,
+        "text": "Finally found a moisturizer that keeps my sensitive skin happy all day. Highly recommend!",
+        "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=200"
+      }
+    ]
+  },
+  "offerBanner": {
+    "title": "Don't Miss Out: Limited-Time Offer",
+    "subtitle": "Enjoy 20% Off Your First Purchase With Code GLOW20",
+    "description": "Hurry, Offer Ends In 12hrs 30mins 56seconds",
+    "buttonText": "Shop the sale",
+    "backgroundColor": "#8FBC8F"
+  },
+  "blog": {
+    "title": "Skincare Tips & Insights",
+    "subtitle": "Expert advice for healthy, glowing skin",
+    "posts": [
+      {
+        "id": 1,
+        "title": "10 Morning Skincare Routine Steps",
+        "excerpt": "Start your day right with this comprehensive morning skincare guide.",
+        "image": "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "date": "March 15, 2024",
+        "readTime": "5 min read"
+      },
+      {
+        "id": 2,
+        "title": "Understanding Your Skin Type",
+        "excerpt": "Learn how to identify your skin type and choose the right products.",
+        "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "date": "March 12, 2024",
+        "readTime": "3 min read"
+      },
+      {
+        "id": 3,
+        "title": "The Benefits of Natural Ingredients",
+        "excerpt": "Discover why natural skincare ingredients are better for your skin.",
+        "image": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "date": "March 10, 2024",
+        "readTime": "4 min read"
+      }
+    ]
+  },
+   "hero2": {
+    "title": "Your Guide To Rsdiant Skin",
+    "subtitle": "5 Mistakes That Might Be Hurt Your Skin",
+    "description": "Your skon care routine plays acrucial role in maintaings helthey Clean, effective, and cruelty-free skincare made to deliver visible results...",
+    "buttonText": "Shop Now",
+    "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  "footer": {
+    "logo": "Xtragleam",
+    "description": "Premium natural skincare for healthy, radiant skin.",
+    "sections": [
+      {
+        "title": "Quick Links",
+        "links": [
+          {
+            "label": "Home",
+            "href": "#about"
+          },
+          {
+            "label": "Shop",
+            "href": "#products"
+          },
+          {
+            "label": "Spa",
+            "href": "#blog"
+          },
+          {
+            "label": "About",
+            "href": "#blog"
+          },
+          {
+            "label": "Contact Us",
+            "href": "#contact"
+          },
+          {
+            "label": "Career",
+            "href": "#contact"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "Privacy Policy",
+            "href": "#shipping"
+          },
+          {
+            "label": "Terms Of Services",
+            "href": "#returns"
+          },
+          {
+            "label": "Legal",
+            "href": "#faq"
+          }
+        ]
+      },
+      {
+        "title": "Connect",
+        "links": [
+          {
+            "label": "Instagram",
+            "href": "#instagram"
+          },
+          {
+            "label": "Facebook",
+            "href": "#facebook"
+          },
+          {
+            "label": "Twitter",
+            "href": "#twitter"
+          },
+          {
+            "label": "Newsletter",
+            "href": "#newsletter"
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2025 Xtragleam. All rights reserved."
+  }
+}
